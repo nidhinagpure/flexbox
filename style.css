@@ -1,0 +1,25 @@
+
+.flex-one{
+    height: 500px;
+    width: 600px;
+    background-color: #ff9999;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+
+.one-div{
+    background-color: #e60000;
+    height: 30pxpx;
+    width: 30px; 
+    padding:6px;
+    margin: 13px;
+    
+}
+.one-text{
+    text-align:center;
+    font-size: 20px;
+    border-radius: 5px;
+    border: solid 2px #800000;
+    padding: 10px;
+}
